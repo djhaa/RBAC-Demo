@@ -11,3 +11,5 @@
   - SpringSecurity
   - Swagger-UI
   - JWT
+- 账号：admin  密码：admin
+- 账号：test   密码：test
